@@ -7,5 +7,13 @@
   작업증명 fork
 
 
-2019-03-24
-1. 트랜잭션 수수료 처리
+2019-03-24 
+1. 트랜잭션 수수료 처리 관련자료 찾기
+2. byfn.sh 분석하기(자유)
+3. docker기반 하이퍼레저 구축을 위한 학습
+  http://pyrasis.com/docker.html
+   도커개념 발표- 수진
+   도커 사용법- 윤찬
+   CA 포함 네트워크 도커로 구성- 진환
+4. docker composer
+  http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/
