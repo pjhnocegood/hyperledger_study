@@ -1,5 +1,4 @@
 2019-03-17
-
 1.합의알고리즘-PoW(proof of work) -수진 발표
 2. 블록체인 개념- 윤찬 발표
   블록체인 3가지 개념-퍼블릭, 프라이빗, 컨소시엄
@@ -7,7 +6,9 @@
   작업증명 fork
 
 
-2019-03-24 
+
+
+2019-03-24 12:00
 1. 트랜잭션 수수료 처리 관련자료 찾기
 2. byfn.sh 분석하기(자유)
 3. docker기반 하이퍼레저 구축을 위한 학습
@@ -16,4 +17,4 @@
    도커 사용법- 윤찬
    CA 포함 네트워크 도커로 구성- 진환
 4. docker composer
-  http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/
+   http://raccoonyy.github.io/docker-usages-for-dev-environment-setup/
