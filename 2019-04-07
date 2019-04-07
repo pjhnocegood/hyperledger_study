@@ -1,0 +1,19 @@
+<프로젝트> 
+
+스프링 강의 https://www.youtube.com/watch?v=CsOrR-4nH-s&t=2s
+REST api -> java
+체인코드 -> go
+
+
+
+프로젝트 주제: REST api를 이용해서 게시판 개발
+1. SDK를 이용한 rest api서버 개발             //수진, 윤찬    https://github.com/hyperledger/fabric-sdk-java 분석
+2. 서버구성                                  //진환                 
+    peer 4개
+    orderer 1개
+    org 2개
+    CA서버 1개
+    클라이언트 2명
+3. 체인코드 개발                             //수진, 윤찬, 진환
+
+
